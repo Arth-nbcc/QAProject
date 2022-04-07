@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "w+SzE5laBkCKMBzqGbVACcxGociUARIapSQWwOF6VLtgyz/Za9gkTZvJklnr8ojeZeYlfWzGPhXfZeJwCezf/w==",
+  "success": true,
+  "projectFilePath": "D:\\NBCC\\Winter 2022\\QA\\QAProject\\QAProject\\QAProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arthp\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\arthp\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\arthp\\.nuget\\packages\\selenium.webdriver.chromedriver\\100.0.4896.6000\\selenium.webdriver.chromedriver.100.0.4896.6000.nupkg.sha512",
+    "C:\\Users\\arthp\\.nuget\\packages\\selenium.webdriver.geckodriver\\0.30.0.1\\selenium.webdriver.geckodriver.0.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
